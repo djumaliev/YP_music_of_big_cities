@@ -9,6 +9,9 @@ __The available data included the following information about track listens in t
 - Listening time
 
 __Task__
+
 Compare the music preferences of Yandex.Music users residing in Moscow and St. Petersburg. Compare listens on Monday, Wednesday, and Friday by city, and also compare the genres that users listen to in the morning on Monday and in the evening on Friday in Moscow and St. Petersburg.
+
  __Used Libraries__
+ 
 pandas
